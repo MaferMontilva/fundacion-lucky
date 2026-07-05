@@ -27,3 +27,11 @@ dist-ssr
 .env.local
 .env.development
 .env.production
+
+# Seguridad proyecto Fundación Lucky
+**/node_modules/
+**/dist/
+**/.env
+**/.env.local
+**/.env.development
+**/.env.production
